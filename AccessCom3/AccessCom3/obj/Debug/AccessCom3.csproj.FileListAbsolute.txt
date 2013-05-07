@@ -1,0 +1,11 @@
+c:\users\tuttlen\documents\visual studio 2012\Projects\AccessCom3\AccessCom3\bin\Debug\AccessCom3.exe.config
+c:\users\tuttlen\documents\visual studio 2012\Projects\AccessCom3\AccessCom3\bin\Debug\AccessCom3.exe
+c:\users\tuttlen\documents\visual studio 2012\Projects\AccessCom3\AccessCom3\bin\Debug\AccessCom3.pdb
+c:\users\tuttlen\documents\visual studio 2012\Projects\AccessCom3\AccessCom3\obj\Debug\AccessCom3.csprojResolveAssemblyReference.cache
+c:\users\tuttlen\documents\visual studio 2012\Projects\AccessCom3\AccessCom3\obj\Debug\AccessCom3.Form1.resources
+c:\users\tuttlen\documents\visual studio 2012\Projects\AccessCom3\AccessCom3\obj\Debug\AccessCom3.Properties.Resources.resources
+c:\users\tuttlen\documents\visual studio 2012\Projects\AccessCom3\AccessCom3\obj\Debug\AccessCom3.csproj.GenerateResource.Cache
+c:\users\tuttlen\documents\visual studio 2012\Projects\AccessCom3\AccessCom3\obj\Debug\AccessCom3.exe
+c:\users\tuttlen\documents\visual studio 2012\Projects\AccessCom3\AccessCom3\obj\Debug\AccessCom3.pdb
+c:\users\tuttlen\documents\visual studio 2012\Projects\AccessCom3\AccessCom3\bin\Debug\SpPerfChart.dll
+c:\users\tuttlen\documents\visual studio 2012\Projects\AccessCom3\AccessCom3\bin\Debug\SpPerfChart.pdb
